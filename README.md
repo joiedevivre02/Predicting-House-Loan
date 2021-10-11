@@ -3,7 +3,7 @@
 In this capstone, it will be demonstrated how one business process can be optimized by application of data analytics.  Inferences backed by statistical analysis will be explained in a simplified context by use of data mining and data visualization. <br />
 
 Problem Statement: <br />
-#House loan financing companies as a subset sector within the insurance industry, rigorously review each loan application to ensure that the applicant has the proven capability #to pay off the loan within the desired timetable.  If this evaluation process is bypassed and not given the needed weight of importance, the company runs the risk of being #ruined by defaulted loans.  This evaluation process results in processing and transaction downtime (in days) when the company agents have to individually receive, assess and #evaluate eligibility of customers who are applying for house loans. This downtime directly equates to opportunity cost not only to the company, but also to the customer. 
+House loan financing companies as a subset sector within the insurance industry, rigorously review each loan application to ensure that the applicant has the proven capability to pay off the loan within the desired timetable.  If this evaluation process is bypassed and not given the needed weight of importance, the company runs the risk of being ruined by defaulted loans.  This evaluation process results in processing and transaction downtime (in days) when the company agents have to individually receive, assess and evaluate eligibility of customers who are applying for house loans. This downtime directly equates to opportunity cost not only to the company, but also to the customer. 
 
 Objective 1. Create a prediction model to automate the eligibility process<br />
 
