@@ -27,7 +27,7 @@ Credit History (1,0)  <br />
 Property_Area (Urban/ Semi Urban/ Rural ) <br />
 (Target) Loan approved (Y/N) <br />
 
+Data Science Methodology
 
+ ![Methodology drawio (2)](https://user-images.githubusercontent.com/16694075/136832019-90cb3682-e86c-4da6-ae72-eebdab6766c5.png)
 
-
- 
