@@ -1,7 +1,6 @@
 # Predicting-House-Loan
 
-# Highest accuracy achieved so far is 89.45% using c5.0 Decision Tree algorithm.
-# will continue to update as we improve the accuracy using other algorithms with hyperparameter tuning
+# Highest accuracy achieved is 100%.
 
 In this capstone, it will be demonstrated how one business process can be optimized by application of data analytics.  Inferences backed by statistical analysis will be explained in a simplified context by use of data mining and data visualization. <br />
 
