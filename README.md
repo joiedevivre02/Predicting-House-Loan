@@ -1,6 +1,6 @@
 # Predicting-House-Loan Eligibility
 
-# Highest accuracy achieved is 89.43%.
+# Highest accuracy achieved is 95.86%.
 
 In this capstone, it will be demonstrated how one business process can be optimized by application of data analytics.  Inferences backed by statistical analysis will be explained in a simplified context by use of data mining and data visualization. <br />
 
